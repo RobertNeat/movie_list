@@ -2,20 +2,20 @@
 
 - main page list of the movies:
 
-<img src="https://raw.githubusercontent.com/RobertNeat/movie_list/master/main_list_page.png" width="500px" heigth="auto"/>
+<img src="https://raw.githubusercontent.com/RobertNeat/movie_list/screenshots/main_list_page.png" width="500px" heigth="auto"/>
 
 - add new movie page:
 
-<img src="https://raw.githubusercontent.com/RobertNeat/movie_list/master/add_new_screen.png" width="500px" heigth="auto"/>
+<img src="https://raw.githubusercontent.com/RobertNeat/movie_list/screenshots/add_new_screen.png" width="500px" heigth="auto"/>
 
 - details of the movie from the list:
-<img src="https://raw.githubusercontent.com/RobertNeat/movie_list/master/details_screen.png" width="500px" heigth="auto"/>
+<img src="https://raw.githubusercontent.com/RobertNeat/movie_list/screenshots/details_screen.png" width="500px" heigth="auto"/>
 
 - edit movie element page:
-<img src="https://raw.githubusercontent.com/RobertNeat/movie_list/master/edit_screen.png" width="500px" heigth="auto"/>
+<img src="https://raw.githubusercontent.com/RobertNeat/movie_list/screenshots/edit_screen.png" width="500px" heigth="auto"/>
 
 -  delete movie element page:
-<img src="https://raw.githubusercontent.com/RobertNeat/movie_list/master/delete_screen.png" width="500px" heigth="auto"/>
+<img src="https://raw.githubusercontent.com/RobertNeat/movie_list/screenshots/delete_screen.png" width="500px" heigth="auto"/>
 
 # Special dependencies:
 
